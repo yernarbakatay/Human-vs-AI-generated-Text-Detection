@@ -1,8 +1,6 @@
 ﻿# Human-vs-AI-generated-Text-Detection
 LLM based approach to detect AI generated text
 
-hello darkness my old friend?
-
 Find the dataset from the link below:
 https://huggingface.co/datasets/gsingh1-py/train/tree/main
 
